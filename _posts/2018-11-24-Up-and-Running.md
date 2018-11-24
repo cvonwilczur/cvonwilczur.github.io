@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Up and Running
-tags:
+tags: coding
 ---
 
 Well-- it's finally happened. I'm blogging using Jekyll and Github Pages. Almost a year into this coding journey, and I'm just now settling down to start recounting it. I'm hoping that I'll be able to stick to this format better than the 100 Days of Code challenge on Twitter; I've been finding it hard to stick to using Twitter regularly.
