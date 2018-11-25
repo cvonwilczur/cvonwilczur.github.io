@@ -8,6 +8,8 @@ Hey, I'm Chris!
 
 I'm a journalist/marketer/technical writer/English tutor/insurance broker/account manager/product analyst/self-taught developer/dungeon master-- I've worn a lot of hats over the years.
 
+Over on the blog part of this site, you'll find my thoughts on my coding journey so far, things that I've learned and design/progress posts on the things I'm working on.
+
 ### Coding
 
 I'm a budding web developer building fun and useful apps for professional and personal use. I work primarily in JavaScript and Python, and over the past year I've built apps like:
