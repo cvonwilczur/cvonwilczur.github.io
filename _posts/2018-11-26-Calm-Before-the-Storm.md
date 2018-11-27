@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Calm Before the Storm
-tags: coding
+tags: coding warlock design
 ---
 
 I'm still trying to determine whether or not I'll be making daily entries into this blog; part of me sees it as a sort-of more private alternative to logging my 100 Days of Code. Unfortunately, today hasn't seen as much actual coding, for some very specific reasons!
