@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Checking In
-tags: coding warlock design
+tags: coding interviews
 ---
 
 Well; the technical project is complete! I interview Monday for LinkedIn, and from there we'll find out what's in store. The interview will include two hours of technical interview, 1 hour of lunch interview and 1 hour of interviewing with an engineering manager. All-in-all, it should be a marathon. The last time I experienced something similar was when I interviewed for an account management position at OpenDoor.
